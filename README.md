@@ -1,5 +1,6 @@
 Olá! Eu sou o Samuel Lucas!
-<br>
+
+
 💻 - Tentando ser um desenvolvedor front-end;
 
 📚 - Estudando HTML, CSS e JAVASCRIPT;
